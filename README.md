@@ -1,2 +1,2 @@
-## Marcianophone RE-Design
-# Utilizando el modelo Material Design formado por Google.
+Marcianophone redesign
+Usando la estructura de diseño de Material Design by Google
