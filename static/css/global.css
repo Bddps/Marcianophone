@@ -18,7 +18,7 @@ header
 }
 
 .sliderContent{
-	margin:-100px auto 30px auto;
+	margin:-100px auto 0px auto;
 	max-width: 1050px;
 	background: #FFFFFF;
 	border-radius: 5px;
@@ -45,4 +45,12 @@ header
 
 div#amazoncontent{
 	width: 350px !important;
+}
+
+.sliderShadow{
+	text-shadow:0 0 20px rgba(0,0,0,0.35);
+}
+
+.sliderH5font{
+	font-size: 1rem;
 }
