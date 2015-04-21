@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	/*background: #eeeeee;*/
+}
+
+header
+{
+	width: 100%;
+	min-height: 270px;
+}
+
+.content{
+	max-width: 1150px;
+	margin: 0 auto;
+}
+
+.sliderContent{
+	margin:-100px auto 30px auto;
+	max-width: 1050px;
+	background: #FFFFFF;
+	border-radius: 5px;
+	padding: 30px;
+}
+
+.responsive{
+	display: inline-block;
+}
+
+.brandLogo{
+	display: inline-block;
+	position: absolute;
+	top: 5px;
+}
+
+.brandLogoText{
+	padding-left: 55px;
+}
+
+.rightSection{
+	margin-bottom: 10px;
+}
+
+div#amazoncontent{
+	width: 350px !important;
+}
