@@ -2523,7 +2523,9 @@ span.badge {
   user-select: none; }
 
 .circle {
-  border-radius: 50%; }
+  border-radius: 50%; 
+  border: 1px solid rgba(220, 220, 220, 0.99);
+}
 
 .center-block {
   display: block;
@@ -7264,7 +7266,7 @@ select {
   .slider .slides {
     background-color: #9e9e9e;
     margin: 0;
-    height: 400px; }
+    height: 250px; }
     .slider .slides li {
       opacity: 0;
       position: absolute;
